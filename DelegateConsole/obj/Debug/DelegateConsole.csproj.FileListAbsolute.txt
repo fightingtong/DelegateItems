@@ -1,0 +1,6 @@
+G:\GitHub\myproject\DelegateItems\DelegateConsole\bin\Debug\DelegateConsole.exe.config
+G:\GitHub\myproject\DelegateItems\DelegateConsole\bin\Debug\DelegateConsole.exe
+G:\GitHub\myproject\DelegateItems\DelegateConsole\bin\Debug\DelegateConsole.pdb
+G:\GitHub\myproject\DelegateItems\DelegateConsole\obj\Debug\DelegateConsole.csprojResolveAssemblyReference.cache
+G:\GitHub\myproject\DelegateItems\DelegateConsole\obj\Debug\DelegateConsole.exe
+G:\GitHub\myproject\DelegateItems\DelegateConsole\obj\Debug\DelegateConsole.pdb
